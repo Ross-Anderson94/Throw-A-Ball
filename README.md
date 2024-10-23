@@ -1,2 +1,1 @@
-# Throw A Ball
- AE1 For Extended Reality
+Project is within Unity Technologies as I used the pre-existing roll a ball asset to complete this as I lost my original which had been completed via following the tutorial, only thing missing is enemy object which I did not want to use for my project
